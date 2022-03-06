@@ -34,7 +34,7 @@ namespace c2_cw1
 
             int ageDifference = (heroage-characterage);
 
-            Console.WriteLine(" my name is " + characterName + " my age is " + characterage + " my superpower is " + superpower1 + " my second superpower is " + " and my speed is " + characterspeed );
+            Console.WriteLine(" my name is " + characterName + " my age is " + characterage + " my superpower is " + superpower1 + " my second superpower is "+ superpower2  + " and my speed is " + characterspeed );
             Console.WriteLine(" the height check " + heightCheck + " and the agedifference " + ageDifference);
         }
     }
